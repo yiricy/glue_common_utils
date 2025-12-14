@@ -1,9 +1,0 @@
-setup.py
-glue_common_utils/__init__.py
-glue_common_utils/salesforce_connector.py
-glue_common_utils.egg-info/PKG-INFO
-glue_common_utils.egg-info/SOURCES.txt
-glue_common_utils.egg-info/dependency_links.txt
-glue_common_utils.egg-info/top_level.txt
-glue_common_utils/aws_utils/__init__.py
-glue_common_utils/aws_utils/secret_manager.py
